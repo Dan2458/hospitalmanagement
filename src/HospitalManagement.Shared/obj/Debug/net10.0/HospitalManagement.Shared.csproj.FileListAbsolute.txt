@@ -1,0 +1,11 @@
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\bin\Debug\net10.0\HospitalManagement.Shared.deps.json
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\bin\Debug\net10.0\HospitalManagement.Shared.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\bin\Debug\net10.0\HospitalManagement.Shared.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.AssemblyInfo.cs
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\refint\HospitalManagement.Shared.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\HospitalManagement.Shared.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Shared\obj\Debug\net10.0\ref\HospitalManagement.Shared.dll

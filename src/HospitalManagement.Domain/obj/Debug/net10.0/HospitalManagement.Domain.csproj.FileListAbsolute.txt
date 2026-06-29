@@ -1,0 +1,11 @@
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\bin\Debug\net10.0\HospitalManagement.Domain.deps.json
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\bin\Debug\net10.0\HospitalManagement.Domain.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\bin\Debug\net10.0\HospitalManagement.Domain.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.AssemblyInfo.cs
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\refint\HospitalManagement.Domain.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\HospitalManagement.Domain.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Domain\obj\Debug\net10.0\ref\HospitalManagement.Domain.dll

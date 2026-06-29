@@ -1,0 +1,17 @@
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Application.deps.json
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Application.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Application.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Domain.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Shared.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Domain.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\bin\Debug\net10.0\HospitalManagement.Shared.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.AssemblyInfo.cs
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\Hospital.86C33EBC.Up2Date
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\refint\HospitalManagement.Application.dll
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\HospitalManagement.Application.pdb
+C:\Users\Egheose\Desktop\HospitalManagementV2\HospitalManagementV2\src\HospitalManagement.Application\obj\Debug\net10.0\ref\HospitalManagement.Application.dll
