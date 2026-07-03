@@ -47,4 +47,8 @@ public class PatientRepository : IPatientRepository
 
         await _context.SaveChangesAsync();
     }
+    public async Task<int> CountAsync()
+{
+    return await _context.Patients.CountAsync();
+}
 }

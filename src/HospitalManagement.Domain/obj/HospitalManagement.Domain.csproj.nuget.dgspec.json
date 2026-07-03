@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\hospitalmanagementv2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {}
+    "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\HospitalManagementV2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\hospitalmanagementv2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
+    "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\HospitalManagementV2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\hospitalmanagementv2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\HospitalManagementV2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
         "projectName": "HospitalManagement.Domain",
-        "projectPath": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\hospitalmanagementv2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\HospitalManagementV2\\src\\HospitalManagement.Domain\\HospitalManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Egheose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\hospitalmanagementv2\\src\\HospitalManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Egheose\\Desktop\\HospitalManagementV2\\HospitalManagementV2\\src\\HospitalManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
