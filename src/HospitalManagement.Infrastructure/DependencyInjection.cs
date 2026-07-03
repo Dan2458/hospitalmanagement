@@ -18,7 +18,12 @@ using HospitalManagement.Application.Interfaces.FileStorage;
 using HospitalManagement.Infrastructure.Repositories;
 using HospitalManagement.Infrastructure.FileStorage;
 namespace HospitalManagement.Infrastructure;
-
+using HospitalManagement.Application.Interfaces;
+using HospitalManagement.Application.Interfaces.Repositories;
+using HospitalManagement.Infrastructure.Repositories;
+using HospitalManagement.Infrastructure.Repositories;
+using HospitalManagement.Application.Interfaces.Repositories;
+using HospitalManagement.Infrastructure.Repositories;
 public static class DependencyInjection
 {
     public static IServiceCollection AddInfrastructure(
@@ -35,7 +40,8 @@ public static class DependencyInjection
             .AddEntityFrameworkStores<ApplicationDbContext>()
             .AddDefaultTokenProviders();
             services.AddScoped<IMedicalDocumentRepository, MedicalDocumentRepository>();
-
+            services.AddScoped<INotificationRepository, NotificationRepository>();
+services.AddScoped<INotificationRepository, NotificationRepository>();
             services.AddScoped<IFileStorageService, LocalFileStorageService>();
             services.AddScoped<IBillRepository, BillRepository>();
             services.AddScoped<ILabTestRepository, LabTestRepository>();
@@ -45,6 +51,8 @@ public static class DependencyInjection
             services.AddScoped<IDoctorRepository, DoctorRepository>();
          services.AddScoped<IPatientRepository, PatientRepository>();
         services.AddScoped<IIdentityService, IdentityService>();
+        services.AddScoped<IMedicineRepository, MedicineRepository>();
+        services.AddScoped<IDashboardRepository, DashboardRepository>();
 // JWT Settings
 services.Configure<JwtSettings>(
     configuration.GetSection("Jwt"));

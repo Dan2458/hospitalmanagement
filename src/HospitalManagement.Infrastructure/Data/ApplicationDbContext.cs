@@ -12,7 +12,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
         : base(options)
     {
     }
-
+public DbSet<Notification> Notifications => Set<Notification>();
     public DbSet<Patient> Patients => Set<Patient>();
     public DbSet<Doctor> Doctors => Set<Doctor>();
     public DbSet<Appointment> Appointments => Set<Appointment>();
@@ -21,6 +21,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     public DbSet<LabTest> LabTests => Set<LabTest>();
     public DbSet<Bill> Bills => Set<Bill>();
     public DbSet<MedicalDocument> MedicalDocuments => Set<MedicalDocument>();
+    public DbSet<Medicine> Medicines => Set<Medicine>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -266,5 +267,42 @@ modelBuilder.Entity<MedicalDocument>(entity =>
         .HasForeignKey(x => x.PatientId)
         .OnDelete(DeleteBehavior.Cascade);
 });
+
+modelBuilder.Entity<Medicine>(entity =>
+{
+    entity.HasKey(x => x.Id);
+
+    entity.Property(x => x.Name)
+        .HasMaxLength(200)
+        .IsRequired();
+
+    entity.Property(x => x.GenericName)
+        .HasMaxLength(200);
+
+    entity.Property(x => x.Manufacturer)
+        .HasMaxLength(200);
+
+    entity.Property(x => x.Category)
+        .HasMaxLength(100);
+
+    entity.Property(x => x.Barcode)
+        .HasMaxLength(100);
+
+    entity.Property(x => x.UnitPrice)
+        .HasColumnType("decimal(18,2)");
+});
+modelBuilder.Entity<Notification>(entity =>
+{
+    entity.HasKey(x => x.Id);
+
+    entity.Property(x => x.Title)
+        .HasMaxLength(200)
+        .IsRequired();
+
+    entity.Property(x => x.Message)
+        .HasMaxLength(2000)
+        .IsRequired();
+});
+
     }
 }
